@@ -2,7 +2,7 @@
 
 - I am Software Engineer from Nepal
 
-## - 📃 About me
+## 📃 About me
 
 - I am full stack developer, I love to do things from start to finish.
 - 📫 How to reach me: bpngaire@gmail.com
