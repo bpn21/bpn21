@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="assets/postgresql.svg" alt="postgresql" width="40" height="40"/>
 <img src="assets/mysql.svg" alt="mysql" width="40" height="40"/>
-<img src="assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
 <img src="assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
