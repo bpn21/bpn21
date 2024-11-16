@@ -5,7 +5,7 @@
 - I am full stack developer, I love to do things from start to finish.
 - 📫 How to reach me: bpngaire@gmail.com
 
-📝 Working on..
+## 📝 Working on..
 
 - 🔭 I’m currently working with Django, Vue, Nuxt, React, Next
 
