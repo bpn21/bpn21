@@ -9,7 +9,7 @@
 
 ## 📝 Working on..
 
-- 🔭 I’m currently working with Django, Vue, Nuxt, React, Next
+- 🔭 I’m currently working with Django, Vue, Nuxt
 
 ## 🛠 Things I work with
 
