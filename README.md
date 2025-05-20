@@ -7,10 +7,6 @@
   Still searching for the prescription for this damage. 🖤</i>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+Vue+%2B+Nuxt+Specialist;Software+Engineer+from+Nepal" alt="Typing SVG" />
-</div>
-
 ## 👋 About Me
 
 I'm a passionate full stack developer from Nepal who loves to build complete solutions from start to finish. With expertise in both frontend and backend technologies, I create seamless applications that deliver great user experiences.
@@ -21,34 +17,38 @@ I'm a passionate full stack developer from Nepal who loves to build complete sol
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="assets/python.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/>
-  </a>
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
-</details>
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="assets/reactjs.svg" alt="reactjs" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="assets/redux.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="assets/vuejs.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="assets/webpack.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="assets/babeljs.svg" alt="babeljs" width="40"
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babeljs" width="40" height="40"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+</p>
