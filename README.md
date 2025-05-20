@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img src="assets/jira.svg" alt="aws" width="40" height="40"/>
-</p
+</p>
