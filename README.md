@@ -1,11 +1,5 @@
 # Bipin Gaire | Full Stack Developer 👨‍💻
 
-<p align="right">
-  <i>💊 Life Damage Level: 9/10<br>
-  Built an app to manage invoices, purchases, and accounts.<br>
-  But couldn't manage the courage to ask for her Instagram.<br>
-  Still searching for the prescription for this damage. 🖤</i>
-</p>
 
 ## 👋 About Me
 
